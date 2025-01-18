@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pcarvsiq/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulovcsiqueira/)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)]([https://www.linkedin.com/in/paulovcsiqueira/](https://paulocarvalhodev.vercel.app))
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://paulocarvalhodev.vercel.app)
 
 ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=paulovc26&show_icons=true&theme=dracula&count_private=true)
 
